@@ -56,6 +56,7 @@ const displayResults = (gradebook) => {
 
     const curvedScores = dropLowestScore(student.quizScores);
     const curvedAverage = calculateAverage(curvedScores);
+
     const unCurvedAverage = calculateAverage(student.quizScores);
 
     console.log(`${student.studentName} Scores: ${student.quizScores.join(', ')}`)

@@ -110,10 +110,7 @@ For more details, refer to the [Rubric](./rubric.md).
    - Calculate it by hand if you need to!
 
 ### Part 2: Observe
-1. Run the code to see what happens:
-   ```bash
-   node src/modify-with-video.js
-   ```
+1. Run the code to see what happens
 2. Take note of errors and anything that doesn't meet your expectations (write them down - you'll need this for your video)
 
 ### Part 3: Find and Fix Bugs
